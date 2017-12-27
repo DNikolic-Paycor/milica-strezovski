@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+.name-text{
+
+  letter-spacing: 29px;
+  line-height: 40%;
+  color:grey;
+  font-family: 'Dosis', sans-serif;
+  font-size: 3em;
+
+}
+.name-text1{
+  letter-spacing: 9px;
+  line-height: 30%;
+  font-family: 'Dosis', sans-serif;
+}
+
+.nav1{
+  list-style-type: none;
+  font-size: 1.6em;
+  letter-spacing: 10px;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+
+}
+.nav1 li{
+  margin: 30px;
+}
