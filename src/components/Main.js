@@ -1,6 +1,6 @@
 import React from 'react'
 import './Main.css'
-import mainImg from '../img/main1.jpg'
+//import mainImg from '../img/main1.jpg'
 
 
 class Main extends React.Component {

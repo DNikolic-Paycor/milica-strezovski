@@ -1,0 +1,15 @@
+.gallery-ul{
+  list-style-type: none;
+}
+.gallery-li{
+  display:inline-block;
+}
+
+.gallery-img{
+  width:250px;
+  height: auto;
+  margin: 10px;
+  border:1px solid black;
+  text-align: center;
+  justify-content: space-between;
+}
