@@ -16,13 +16,13 @@ class App extends React.Component {
           <Nav/>
             <div className="col-md-9">
               <Route exact path="/" component={Main}/>
-                <Route path="/Gallery" component={Gallery}/>
-                  <Route path="/About" component={About}/>
-                    <Route path="/Contact" component={Contact}/>
-                    </div>
-                  </div>
-        <Footer/>
+              <Route path="/Gallery" component={Gallery}/>
+              <Route path="/About" component={About}/>
+              <Route path="/Contact" component={Contact}/>
+            </div>
         </div>
+        <Footer/>
+      </div>
     );
   }
 }
