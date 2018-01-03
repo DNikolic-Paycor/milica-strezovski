@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Dosis');
 
 .name-text{
-
   letter-spacing: 29px;
   line-height: 40%;
   color:grey;
@@ -22,8 +21,15 @@
   font-family: 'Dosis', sans-serif;
   text-align: center;
   margin-top: 100px;
-
 }
 .nav1 li{
   margin: 30px;
+  text-decoration: none;
+}
+.nav1 li a{
+  color: grey;
+  text-decoration: none;
+}
+.nav1 li a:hover{
+  color: #e24f56;
 }

@@ -1,0 +1,11 @@
+.mainAbout{
+    margin-top: 10%;
+    margin-left: 20px;
+}
+.mainAbout p img{
+    float: left;
+    padding: 0 20px 20px 0;
+}
+.mainAbout p{
+    display: inline-block;
+}

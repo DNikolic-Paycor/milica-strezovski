@@ -1,10 +1,19 @@
-.gallery-ul{
+h1{
+  text-align: center;
+}
+.react-photo-gallery--gallery img{
+  border: 1px solid rgba(0, 0, 0, .1);
+}
+ul{
+  margin-top: 10%;
+}
+/* .gallery-ul{
   list-style-type: none;
+  margin-top: 5%;
 }
 .gallery-li{
   display:inline-block;
 }
-
 .gallery-img{
   width:250px;
   height: auto;
@@ -12,4 +21,4 @@
   border:1px solid black;
   text-align: center;
   justify-content: space-between;
-}
+} */
